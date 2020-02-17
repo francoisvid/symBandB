@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b044fdf2-d226-4faf-b692-bd66c3c2a75b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/symfony2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/ad/index.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/ad/new.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/ad/show.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/partials/footer.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/partials/header.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/symbnb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/symbnb.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/twig.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/twig.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hello.html.twig" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,7 +195,10 @@
       <option name="presentableId" value="Default" />
       <updated>1580854247519</updated>
       <workItem from="1580854249486" duration="25864000" />
-      <workItem from="1581262657239" duration="8588000" />
+      <workItem from="1581262657239" duration="9431000" />
+      <workItem from="1581687244237" duration="1442000" />
+      <workItem from="1581886851846" duration="321000" />
+      <workItem from="1581887412270" duration="431000" />
     </task>
     <servers />
   </component>
@@ -226,6 +210,10 @@
       <screen x="0" y="23" width="1280" height="735" />
     </state>
     <state x="240" y="54" key="#Composer/0.23.1280.735@0.23.1280.735" timestamp="1580854352236" />
+    <state x="328" y="132" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581887144564">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state x="328" y="132" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1280.733@0.23.1280.733" timestamp="1581887144564" />
     <state x="378" y="151" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1580856587170">
       <screen x="0" y="23" width="1280" height="733" />
     </state>
@@ -247,5 +235,9 @@
     </state>
     <state x="296" y="146" width="841" height="550" key="find.popup/0.23.1280.733@0.23.1280.733" timestamp="1581267766415" />
     <state x="296" y="146" width="687" height="486" key="find.popup/0.23.1280.734@0.23.1280.734" timestamp="1581175204671" />
+    <state x="305" y="82" width="670" height="676" key="search.everywhere.popup" timestamp="1581687258737">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="305" y="82" width="670" height="676" key="search.everywhere.popup/0.23.1280.735@0.23.1280.735" timestamp="1581687258737" />
   </component>
 </project>
