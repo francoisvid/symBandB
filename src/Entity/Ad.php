@@ -60,8 +60,8 @@ class Ad
     /**
      * @ORM\Column(type="text")
      * @Assert\Length(
-     *     min="200",
-     *     minMessage="Votre contenu doit faire plus de 200 caractères",
+     *     min="100",
+     *     minMessage="Votre contenu doit faire plus de 100 caractères",
      * )
      */
     private $content;
@@ -79,6 +79,7 @@ class Ad
 
     /**
      * @ORM\OneToMany(targetEntity="App\Entity\Image", mappedBy="ad", orphanRemoval=true)
+     * @Assert\Valid()
      */
     private $images;
 
